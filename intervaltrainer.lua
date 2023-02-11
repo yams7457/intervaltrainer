@@ -1,3 +1,11 @@
+-- intervaltrainer
+-- 
+-- play a note
+--
+-- take a suggestion
+--
+-- repeat for viruosity
+
 m = midi.connect()
 
 function init()
